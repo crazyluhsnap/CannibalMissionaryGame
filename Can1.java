@@ -108,6 +108,7 @@ public class Can1 {
         if(!SuccessMove){
             continue;
         }
+        displayGame();
         }
         displayGame();
         if(Win()){
